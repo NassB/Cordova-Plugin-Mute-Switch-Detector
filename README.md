@@ -1,5 +1,8 @@
 # Mute Switch Detector on IOS (Cordova plugin)
 
+##### *Forked from [AnasFullStack/Cordova-Plugin-Mute-Switch-Detector](https://github.com/AnasFullStack/Cordova-Plugin-Mute-Switch-Detector.git)*
+
+
 This plugin allows you to detect the state of mute switch on iPhone.
 
 The plugin is based on code seen in several other existing plugins:
@@ -10,7 +13,7 @@ The plugin is based on code seen in several other existing plugins:
 Thanks to all of the above mentioned authors for sharing their code openly.
 
 ```Bash
-cordova plugin add https://github.com/AnasFullStack/Cordova-Plugin-Mute-Switch-Detector.git --nofetch
+cordova plugin add https://github.com/NassB/Cordova-Plugin-Mute-Switch-Detector.git --nofetch
 ```
 
 ## API reference
@@ -44,11 +47,11 @@ window.cordova.plugins.DetectMuteSwitch.detectMuteSwitch(
 
 This will print the Mute switch status
 
-Result: Mute switch is Off
+Result: Off
 
 OR
 
-Result: Mute switch is On
+Result: On
 
 */
 ```
