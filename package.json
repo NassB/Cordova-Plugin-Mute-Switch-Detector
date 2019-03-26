@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnasFullStack/Cordova-Plugin-Mute-Switch-Detector.git"
+    "url": "git+https://github.com/NassB/Cordova-Plugin-Mute-Switch-Detector.git"
   },
   "keywords": [
     "cordova",
@@ -21,7 +21,7 @@
   "author": "Anas Aboureada aboureada.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnasFullStack/Cordova-Plugin-Mute-Switch-Detector/issues"
+    "url": "https://github.com/NassB/Cordova-Plugin-Mute-Switch-Detector/issues"
   },
-  "homepage": "https://github.com/AnasFullStack/Cordova-Plugin-Mute-Switch-Detector#readme"
+  "homepage": "https://github.com/NassB/Cordova-Plugin-Mute-Switch-Detector#readme"
 }
